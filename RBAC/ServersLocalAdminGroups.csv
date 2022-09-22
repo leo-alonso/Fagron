@@ -1,5 +1,3 @@
-#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
-"GroupName","SamAccountName","Name","Enabled"
 "sg-la-VAP0003","ex-frfeb01","Fred le Febre","False"
 "sg-la-VAP0003","ex-kesur01","Kenneth Van Surksum","False"
 "sg-la-VAP0012","rehof01","Reinout Hofman","True"
