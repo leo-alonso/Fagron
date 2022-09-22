@@ -1,5 +1,3 @@
-#TYPE Microsoft.ActiveDirectory.Management.ADGroup
-"DistinguishedName","GroupCategory","GroupScope","Name","ObjectClass","ObjectGUID","SamAccountName","SID"
 "CN=sg-rbac-cdci-prod-fagrontech-dns-zone-contributor,OU=RBAC,OU=CDC I,OU=GL,OU=Security Groups,OU=Groups,OU=FDC,DC=adc,DC=local","Security","Global","sg-rbac-cdci-prod-fagrontech-dns-zone-contributor","group","3a8f37df-7292-489e-986f-c9dbc8d763aa","sg-rbac-cdci-prod-fagrontech-dns-zone-contributor","S-1-5-21-3259935974-3787959478-1761136832-438184"
 "CN=sg-rbac-cdci-prod-rg-brsc-d365-sales-reader,OU=RBAC,OU=CDC I,OU=GL,OU=Security Groups,OU=Groups,OU=FDC,DC=adc,DC=local","Security","Global","sg-rbac-cdci-prod-rg-brsc-d365-sales-reader","group","06c3c282-54bb-44fe-ae03-831d568628a4","sg-rbac-cdci-prod-rg-brsc-d365-sales-reader","S-1-5-21-3259935974-3787959478-1761136832-426781"
 "CN=sg-rbac-cdci-prod-rg-fgbrbi01-reader,OU=RBAC,OU=CDC I,OU=GL,OU=Security Groups,OU=Groups,OU=FDC,DC=adc,DC=local","Security","Global","sg-rbac-cdci-prod-rg-fgbrbi01-reader","group","fcbe8fb0-d3e2-4d33-a56d-392f0b63b5d2","sg-rbac-cdci-prod-rg-fgbrbi01-reader","S-1-5-21-3259935974-3787959478-1761136832-438931"
