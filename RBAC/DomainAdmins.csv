@@ -1,5 +1,3 @@
-#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
-"GroupName","SamAccountName","Name","Enabled"
 "Domain Admins","Administrator","Administrator","True"
 "Domain Admins","sa-sql2k8","Service Account SQL server 2008","True"
 "Domain Admins","sa-schedule","sa-schedule","True"
