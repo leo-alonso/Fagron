@@ -1,3 +1,5 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADGroup
+"Name"
 "sg-rbac-cdci-prod-fagrontech-dns-zone-contributor"
 "sg-rbac-cdci-prod-rg-brsc-d365-sales-reader"
 "sg-rbac-cdci-prod-rg-fgbrbi01-reader"

@@ -1,3 +1,5 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"GroupName","SamAccountName","Name","Enabled"
 "sg-rbac-azureglobal-billingreader","inbuy02","Inge Buysens","True"
 "sg-rbac-azureglobal-billingreader","mapla02","Marco Plaats","True"
 "sg-rbac-azureglobal-billingreader","sa-powerbi-azcostrep","sa-powerbi-azcostreporting","True"
@@ -692,6 +694,7 @@
 "sg-rbac-cdcx-prod-rg-jumphosts01","ex-jubis01","Juraj Bi??an","True"
 "sg-rbac-cdcx-prod-rg-jumphosts01","ex-marus01","Marius Rusu","True"
 "sg-rbac-cdcx-prod-rg-jumphosts01","ex-albriz01","Alberto Brizzi","True"
+"sg-rbac-cdcx-prod-rg-jumphosts01","ex-rispi02","Rino La Spina","True"
 "sg-rbac-cdcx-prod-rg-navision-contributor","aa-mawol01","Marco Wolsleger (admin account)","False"
 "sg-rbac-cdcx-prod-rg-navision-contributor","aa-jogro01","Joost Groothuizen (admin account)","True"
 "sg-rbac-cdcx-prod-rg-navision-contributor","aa-rehof01","Reinout Hofman (admin account)","True"
