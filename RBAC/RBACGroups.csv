@@ -1,5 +1,3 @@
-#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
-"GroupName","SamAccountName","Name","Enabled"
 "sg-rbac-azureglobal-billingreader","inbuy02","Inge Buysens","True"
 "sg-rbac-azureglobal-billingreader","mapla02","Marco Plaats","True"
 "sg-rbac-azureglobal-billingreader","sa-powerbi-azcostrep","sa-powerbi-azcostreporting","True"
